@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://langjero.github.io/sitemap
+Sitemap: https://langjero.github.io/app/sitemap
+Sitemap: https://langjero.github.io/assets/sitemap
+Sitemap: https://langjero.github.io/css/sitemap
+Sitemap: https://langjero.github.io/includes/sitemap
+Sitemap: https://langjero.github.io/item/sitemap
+Sitemap: https://langjero.github.io/src/sitemap
